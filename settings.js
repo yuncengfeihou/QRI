@@ -193,7 +193,7 @@ export function createSettingsHtml() {
         </div>
         
         <div class="quick-reply-usage-content">
-            <p>此插件隐藏了原有的快捷回复栏，并创建了一个新的快速回复菜单。</p>
+            <p>此插件隐藏了原有的快速回复栏，并创建了一个新的快速回复菜单。</p>
             <p style="margin-bottom:7px;">点击发送按钮旁边的图标可以打开或关闭菜单。</p>
         </div>
         
@@ -290,7 +290,7 @@ export function handleUsageButtonClick() {
             </div>
             
             <div class="quick-reply-usage-content">
-                <p>此插件隐藏了原有的快捷回复栏，并创建了一个新的快速回复菜单。</p>
+                <p>此插件隐藏了原有的快速回复栏，并创建了一个新的快速回复菜单。</p>
                 <p style="margin-bottom:7px;">点击发送按钮旁边的图标可以打开或关闭菜单。</p>
             </div>
             
