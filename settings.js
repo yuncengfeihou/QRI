@@ -199,7 +199,7 @@ export function createSettingsHtml() {
                 <li>支持两种快捷回复类型：“聊天快捷回复”（针对当前聊天）和“全局快捷回复”（适用于所有聊天），方便分类管理。</li>
             </ul>
         
-            <p><strong>接下来是关于插件的详细设置：</strong></p>
+            <p><strong>以下是关于插件的详细设置</strong></p>
         
             <p><strong>首先，在基本设置中，你可以：</strong></p>
             <ul>
@@ -367,7 +367,7 @@ export function handleUsageButtonClick() {
                     <li>支持两种快捷回复类型：“聊天快捷回复”（针对当前聊天）和“全局快捷回复”（适用于所有聊天），方便分类管理。</li>
                 </ul>
             
-                <p><strong>接下来是关于插件的详细设置：</strong></p>
+                <p><strong>以下是关于插件的详细设置</strong></p>
             
                 <p><strong>首先，在基本设置中，你可以：</strong></p>
                 <ul>
